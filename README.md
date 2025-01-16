@@ -1,0 +1,1 @@
+This reposiroty holds the necessary files to run a speech recognition software built and tested in four weeks for ESE 498 (Signals and Imaging Lab). Dictionarything.m is the main file, and there are example speech dictionary speech files in the reposeitory as well.
